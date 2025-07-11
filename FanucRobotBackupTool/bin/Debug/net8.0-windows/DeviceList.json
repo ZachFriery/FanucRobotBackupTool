@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Robot 1",
+    "IpAddress": "192.168.1.107",
+    "FilePath": "H:\\PROJECTS\\GM Rochester\\24568-582 Gen 6 Fuel Rail Auto Gage System\\Controls Design\\05-Robots\\Robot 1\\Backups\\24568_Robot1",
+    "UserName": "",
+    "Password": "",
+    "Description": "",
+    "Files": []
+  },
+  {
+    "Name": "Robot 2",
+    "IpAddress": "192.168.1.108",
+    "FilePath": "H:\\PROJECTS\\GM Rochester\\24568-582 Gen 6 Fuel Rail Auto Gage System\\Controls Design\\05-Robots\\Robot 2\\Backups\\24568_Robot2",
+    "UserName": "",
+    "Password": "",
+    "Description": "",
+    "Files": []
+  },
+  {
+    "Name": "Robot 3",
+    "IpAddress": "192.168.1.109",
+    "FilePath": "H:\\PROJECTS\\GM Rochester\\24568-582 Gen 6 Fuel Rail Auto Gage System\\Controls Design\\05-Robots\\Robot 3\\Backups\\24568_Robot3",
+    "UserName": "",
+    "Password": "",
+    "Description": "",
+    "Files": []
+  },
+  {
+    "Name": "Robot 4",
+    "IpAddress": "192.168.1.110",
+    "FilePath": "H:\\PROJECTS\\GM Rochester\\24568-582 Gen 6 Fuel Rail Auto Gage System\\Controls Design\\05-Robots\\Robot 4\\Backups\\24568_Robot4",
+    "UserName": "",
+    "Password": "",
+    "Description": "",
+    "Files": []
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "39eruMmSVtUCCve/Qe8CqCY+g9fYeXV0axHQvidWRBoEcYnTY1/CTvRtya9FGtu7z6ooBheY4vkMIaqBd9a/kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\friery\\source\\repos\\FanucRobotBackupTool\\FanucRobotBackupTool\\FanucRobotBackupTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\friery\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
