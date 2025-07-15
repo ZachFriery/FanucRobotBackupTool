@@ -50,22 +50,22 @@
 
 ## 📁 File Structure
 
-FanucRobotBackupTool/
-│
-├── Resources/
-│   └── FtpDevice.cs             # FTP device model with connection validation
-│   └── FtpDeviceManager.cs      # Json serialization of FTP device data
-│
-├── ViewModels/
-│   └── MainViewModel.cs        # Core ViewModel (MVVM)
-│
-├── Views/
-│   └── MainWindow.xaml         # Main WPF view
-│
-├── App.xaml
-├── MainWindow.xaml.cs (minimal)
-└── FanucRobotBackupTool.csproj
-
+```
+FanucRobotBackupTool
+|
+├── MainWindow.xaml.cs
+|
+├── Views
+|   └── MainWindow.xaml         # Main WPF view
+|
+├── Devices
+|   └── FtpDevice.cs            # FTP device model with connection validation
+|   └── FtpDeviceManager.cs     # Json serialization of FTP device data
+|
+├── ViewModels
+|   └── MainViewModel.cs        # Core ViewModel
+|   └── FtpDeviceViewModel.cs   # Ftp device tree view model
+```
 ## 🔧 Settings and Configuration
 Devices are persisted in a local JSON file (DeivceList.json)
 
