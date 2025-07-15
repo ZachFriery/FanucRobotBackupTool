@@ -21,3 +21,4 @@ C:\Users\friery\source\repos\FanucRobotBackupTool\FanucRobotBackupTool\obj\Debug
 C:\Users\friery\source\repos\FanucRobotBackupTool\FanucRobotBackupTool\bin\Debug\net8.0-windows\Ookii.Dialogs.Wpf.dll
 C:\Users\friery\source\repos\FanucRobotBackupTool\FanucRobotBackupTool\obj\Debug\net8.0-windows\FanucRobotBackupTool.csproj.AssemblyReference.cache
 C:\Users\friery\source\repos\FanucRobotBackupTool\FanucRobotBackupTool\obj\Debug\net8.0-windows\FanucRobotBackupTool.csproj.CopyComplete
+C:\Users\friery\source\repos\FanucRobotBackupTool\FanucRobotBackupTool\obj\Debug\net8.0-windows\FanucRobotBackupTool.sourcelink.json

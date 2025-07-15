@@ -1,4 +1,5 @@
 ﻿using FanucRobotBackupTool.Resources;
+//using FanucRobotBackupTool.FtpDevice;
 using System.IO;
 using System.Windows;
 using Ookii.Dialogs.Wpf;
