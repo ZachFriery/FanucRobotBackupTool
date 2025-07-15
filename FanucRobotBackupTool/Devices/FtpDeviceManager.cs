@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Text.Json;
 
-namespace FanucRobotBackupTool.Resources
+namespace FanucRobotBackupTool.Devices
 {
     class FtpDeviceManager
     {

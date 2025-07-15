@@ -1,10 +1,11 @@
-﻿using System.Collections.ObjectModel;
+﻿using FanucRobotBackupTool.Devices;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.IO;
 using System.Runtime.CompilerServices;
 using System.Windows.Input;
 
-namespace FanucRobotBackupTool.Resources
+namespace FanucRobotBackupTool.ViewModels
 {
     public class MainViewModel : INotifyPropertyChanged
     {

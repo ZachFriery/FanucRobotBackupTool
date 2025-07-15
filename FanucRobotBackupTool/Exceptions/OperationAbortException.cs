@@ -1,5 +1,5 @@
 ﻿
-namespace FanucRobotBackupTool.Resources
+namespace FanucRobotBackupTool.Exceptions
 {
     public class OperationAbortException : Exception
     {

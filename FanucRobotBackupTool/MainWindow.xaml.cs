@@ -1,5 +1,6 @@
-﻿using FanucRobotBackupTool.Resources;
-//using FanucRobotBackupTool.FtpDevice;
+﻿using FanucRobotBackupTool.Devices;
+using FanucRobotBackupTool.ViewModels;
+using FanucRobotBackupTool.Exceptions;
 using System.IO;
 using System.Windows;
 using Ookii.Dialogs.Wpf;
