@@ -1,0 +1,6 @@
+C:\Users\friery\Downloads\FanucRobotBackupTool\FanucRobotBackupTool.exe
+C:\Users\friery\Downloads\FanucRobotBackupTool\FanucRobotBackupTool.dll
+C:\Users\friery\Downloads\FanucRobotBackupTool\FanucRobotBackupTool.deps.json
+C:\Users\friery\Downloads\FanucRobotBackupTool\FanucRobotBackupTool.runtimeconfig.json
+C:\Users\friery\Downloads\FanucRobotBackupTool\FanucRobotBackupTool.pdb
+C:\Users\friery\Downloads\FanucRobotBackupTool\Ookii.Dialogs.Wpf.dll

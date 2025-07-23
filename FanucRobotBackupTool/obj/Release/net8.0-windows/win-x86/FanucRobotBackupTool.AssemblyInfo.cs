@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FanucRobotBackupTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e91551a8c2f76fe9672a398073d573eb02f1f4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FanucRobotBackupTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FanucRobotBackupTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

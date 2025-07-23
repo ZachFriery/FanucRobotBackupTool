@@ -480,3 +480,5 @@ C:\Users\friery\source\repos\FanucRobotBackupTool\FanucRobotBackupTool\obj\Relea
 C:\Users\friery\source\repos\FanucRobotBackupTool\FanucRobotBackupTool\obj\Release\net8.0-windows\win-x86\FanucRobotBackupTool.pdb
 C:\Users\friery\source\repos\FanucRobotBackupTool\FanucRobotBackupTool\obj\Release\net8.0-windows\win-x86\FanucRobotBackupTool.genruntimeconfig.cache
 C:\Users\friery\source\repos\FanucRobotBackupTool\FanucRobotBackupTool\obj\Release\net8.0-windows\win-x86\ref\FanucRobotBackupTool.dll
+C:\Users\friery\source\repos\FanucRobotBackupTool\FanucRobotBackupTool\obj\Release\net8.0-windows\win-x86\FanucRobotBackupTool_Content.g.cs
+C:\Users\friery\source\repos\FanucRobotBackupTool\FanucRobotBackupTool\obj\Release\net8.0-windows\win-x86\FanucRobotBackupTool.sourcelink.json
